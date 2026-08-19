@@ -1,6 +1,6 @@
 # SkillGraph
 
-Paste a resume and a job post. SkillGraph checks what you claim against what
+SkillGraph checks what you claim against what
 your GitHub actually shows, scores the match, ranks the highest-impact gaps,
 and tells you exactly what to build next.
 
